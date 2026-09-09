@@ -54,13 +54,13 @@ web-ui/
 
 ## Getting Started
 
-## Project Demo
+## Demo Videos
 
-Watch the application in action through the following screen recordings:
+Explore the main features and workflow of the application through these screen recordings:
 
-- [Demo 1](ProjectDemo/ProjectDemo1.mp4)
-- [Demo 2](ProjectDemo/ProjectDemo2.mp4)
-- [Demo 3](ProjectDemo/ProjectDemo3.mp4)
+- 🎥 [Project Demo 1](ProjectDemo/ProjectDemo1.mp4)
+- 🎥 [Project Demo 2](ProjectDemo/ProjectDemo2.mp4)
+- 🎥 [Project Demo 3](ProjectDemo/ProjectDemo3.mp4)
 
 ### Requirements
 
