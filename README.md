@@ -76,8 +76,8 @@ Using [`uv`](https://docs.astral.sh/uv/) is recommended for creating and managin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/usman/web-ui.git
-cd web-ui
+git clone https://github.com/musman-uet/browser-automation-ui.git
+cd browser-automation-ui
 ```
 
 > If your GitHub username or repository name is different, replace the URL above with your actual repository URL.
